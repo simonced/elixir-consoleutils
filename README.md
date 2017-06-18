@@ -8,7 +8,7 @@ It's not really finished, TODOs are left here and there, but I'll update it as I
 
 ```elixir
 def deps do
-  [{:consoleUtils, github: "simonced/elixir-consoleutils"}]
+  [{:consoleUtils, github: "simonced/elixir-consoleutils", app: false}]
 end
 ```
 
